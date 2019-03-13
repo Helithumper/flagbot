@@ -2,7 +2,7 @@
 
 <img height="150" align="right" src="images/flagbot.png">
 
-This is a bot created for SunshineCTF by [Helithumper](https://github.com/helithumper). Removes SunshineCTF related flags. In a competition such as SunshineCTF, amongst other CTFs, the ability to block all flags from being sent in messages is crucial. This bot will remove messages containing flag patterns and send a witty GIF in response. Any questions about this bot should be directed to the SunshineCTF admins on our discord server. Please feel free to message us there.
+This is a bot created for managing CTF Discord guilds by [Helithumper](https://github.com/helithumper). The bot automatically removes CTF flags. In CTF competitions, the ability to block all flags from being sent in messages is crucial to running a fair competition. This bot will remove messages containing flag patterns and send a witty GIF in response.
 
 ## Usage
 
